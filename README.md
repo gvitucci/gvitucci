@@ -1,5 +1,5 @@
 ### Hi there 👋
-Feel free to have a look at my personal home page, for a brief introduction about myself:
+Feel free to have a look at my personal homepage, to know a little bit about myself:
 
 https://gvitucci.github.io/
 
