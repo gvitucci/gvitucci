@@ -1,7 +1,7 @@
 ### Hi there 👋
 Feel free to have a look at my personal homepage, to know a little bit about myself:
 
-https://gvitucci.github.io/
+<h3>https://gvitucci.github.io/</h3>
 
 <!--
 **gvitucci/gvitucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
